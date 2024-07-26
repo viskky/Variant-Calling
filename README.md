@@ -6,6 +6,9 @@ This investigation performs variant calling on ancient human remains. The Iceman
 ## Data Resource
 ##Paired-end reads source 
 **Read 1** [download link](ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/phase3/data/HG00096/sequence_read/SRR062634_1.filt.fastq.gz)
+
 **Read 2** [download link](ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/phase3/data/HG00096/sequence_read/SRR062634_2.filt.fastq.gz)
+
 **Reference genome** [download link](https://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz)
+
 * Journal reference: Click [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099994)
