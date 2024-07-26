@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #Count number of SNPs
 bcftools view -v snps variants.raw.vcf | grep -v -c '^#' variants.raw.vcf
 
