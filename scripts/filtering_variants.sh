@@ -11,3 +11,4 @@ bcftools filter -i 'QUAL>=30' variants.raw.vcf | grep -v -c '^#'
 
 
 bcftools filter -i 'QUAL>=30' variants.raw.vcf | sort | head -n 100
+ 
