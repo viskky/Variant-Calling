@@ -1,5 +1,5 @@
 # Variant-Calling-And-Filtering
-Variant calling and filtering of variants in Mycobacterium Ulcerans
+Variant calling and filtering of variants in Mycobacterium Ulcerans.
 Custom code used for the journal can be found [here](https://github.com/viskky/Variant-Calling) .
 
 This investigation performs variant calling on ancient human remains. The Iceman’s sequencing reads which is from a 5300 year old mummy was compared with the human genome for variants
