@@ -5,10 +5,6 @@ Custom code used for the journal can be found [here](https://github.com/viskky/V
 
 This investigation performs variant calling on ancient human remains. The Iceman’s sequencing reads which is from a 5300 year old mummy was compared with the human genome for variants
 
-```
-sudo apt-get fastqc
-```
-
 ## Data Resource
 ##Paired-end reads source 
 **Read 1** [download link](https://ftp-trace.ncbi.nih.gov/1000genomes/ftp/phase3/data/HG00096/sequence_read/SRR062634_1.filt.fastq.gz) .
